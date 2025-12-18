@@ -1,16 +1,27 @@
-## Hi there 👋
+# Nasim
 
-<!--
-**Nasim-Breeze/Nasim-Breeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analytics | PhD Candidate in Particle Physics
 
-Here are some ideas to get you started:
+I am a PhD candidate transitioning from academia into business analytics. 
+My background includes statistical data analysis, Python-based workflows, and working with complex datasets.
+I am currently building a business analytics portfolio and expanding my skills in SQL and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (pandas, numpy, scipy)
+- Statistics & data analysis
+- Git 
+- SQL *(learning)*
+- Data visualization *(learning)*
+
+## Portfolio Projects
+- Sales Performance Analysis (SQL, Python) — *in progress*
+- Business Dashboard (Tableau / Power BI) — *planned*
+
+## Currently
+- Completing my PhD
+- Self-studying business analytics and SQL
+- Building portfolio projects
+
+## Contact
+- LinkedIn: www.linkedin.com/in/nasim-derakhshanian-966215ab
+
